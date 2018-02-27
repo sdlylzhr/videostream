@@ -11,7 +11,7 @@
 @interface ViewController : UIViewController
 
 @property(nonatomic, retain) UITextField *textField;
-@property(nonatomic, strong) UILabel *label;
+@property(nonatomic, strong) UILabel *mylabel;
 
 @property(nonatomic, assign) NSInteger num;
 // asdasd
