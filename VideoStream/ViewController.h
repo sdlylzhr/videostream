@@ -14,6 +14,7 @@
 @property(nonatomic, strong) UILabel *label;
 
 @property(nonatomic, assign) NSInteger num;
+// asdasd
 
 @end
 
