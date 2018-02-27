@@ -11,7 +11,7 @@
 @interface ViewController : UIViewController
 
 @property(nonatomic, retain) UITextField *textField;
-@property(nonatomic, strong) UILabel *myLabel;
+@property(nonatomic, strong) UILabel *label;
 
 @end
 
